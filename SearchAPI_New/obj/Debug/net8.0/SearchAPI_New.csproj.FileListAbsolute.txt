@@ -1,0 +1,7 @@
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.csproj.AssemblyReference.cache
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.AssemblyInfoInputs.cache
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.AssemblyInfo.cs
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.csproj.CoreCompileInputs.cache
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\billo\source\repos\SearchAPI_New\SearchAPI_New\obj\Debug\net8.0\SearchAPI_New.MvcApplicationPartsAssemblyInfo.cache
